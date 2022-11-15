@@ -15,4 +15,4 @@ We're glad to have you! Why do we exist? Because if the pandemic taught us anyth
 
 Unfortunately this key part of life isn't taught in schools so our culture picks up bad habits whether from our family or friends. Well we know from experience that the knowledge to easily understand is publicly available, it's just scattered.
 
-That's why we wanted to make an easy place for you to learn about personal finance from the best resources!
+That's why we wanted to make an easy place for you to learn about personal finance from the best resources! We'll be updating this with more robust and digestible content so stay tuned! 
