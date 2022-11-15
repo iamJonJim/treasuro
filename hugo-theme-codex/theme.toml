@@ -5,11 +5,11 @@ name = "Codex"
 license = "MIT"
 licenselink = "https://github.com/jakewies/hugo-theme-codex/blob/master/LICENSE.md"
 description = "A minimal blog theme for hugo"
-homepage = "treasuro.com"
+homepage = "https://github.com/jakewies/hugo-theme-codex"
 tags = ["website", "starter", "blog"]
 features = ["blog"]
 min_version = "0.82.0"
 
 [author]
   name = "Jake Wiesler"
-  homepage = "https://treasuro.com"
+  homepage = "https://jakewiesler.com"
