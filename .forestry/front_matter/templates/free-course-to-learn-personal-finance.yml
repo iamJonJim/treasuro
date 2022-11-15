@@ -1,0 +1,28 @@
+---
+label: Free Course to Learn Personal Finance
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: slug
+  label: slug
+- type: text
+  name: description
+  label: description
+- type: list
+  name: keywords
+  label: keywords
+- type: list
+  name: tags
+  label: tags
+- type: boolean
+  name: math
+  label: math
+- type: boolean
+  name: toc
+  label: toc
