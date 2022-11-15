@@ -9,7 +9,7 @@ math: false
 toc: true
 
 ---
-# Welcome to Treasuro!
+## Welcome to Treasuro!👋
 
 We're glad to have you! Why do we exist? Because if the pandemic taught us anything, it taught us how important personal finance is for everyone to survive and thrive.
 
