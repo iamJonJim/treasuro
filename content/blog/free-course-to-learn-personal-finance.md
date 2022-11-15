@@ -1,5 +1,5 @@
 +++
-date = 2022-09-01T04:00:00Z
+date = 2022-10-01T04:00:00Z
 description = "Here is a free course available to easily learn the different pieces of personal finance"
 keywords = ["education"]
 math = false
