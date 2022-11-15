@@ -1,156 +1,34 @@
 ---
-title: "Markdown Syntax Guide"
-date: 2020-06-05
-slug: "markdown-syntax-guide"
-description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements"
-keywords: ["gohugo", "hugo", "go", "blog"]
-draft: false
-tags: ["markdown", "css", "html", "themes"]
+title: Best Budgeting Tools
+date: 2022-08-01T04:00:00+00:00
+slug: best-budgeting-tools
+description: List of the best budgeting tools for 2022
+keywords:
+- budgeting
+- software
+tags:
+- budgeting
+- software
 math: false
 toc: false
+
 ---
+Here are the best budgeting software tools you can use!
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
-<!--more-->
+### 1. [Mint.com](https://mint.intuit.com/)
 
-## Headings
+[NQJV8dxA3txJSrgBaXWn6wkg60P_dtHepcImRj7eL2-T8b-k8yAvkVZzFo_nxfYQnvw](https://play-lh.googleusercontent.com/NQJV8dxA3txJSrgBaXWn6wkg60P_dtHepcImRj7eL2-T8b-k8yAvkVZzFo_nxfYQnvw "NQJV8dxA3txJSrgBaXWn6wkg60P_dtHepcImRj7eL2-T8b-k8yAvkVZzFo_nxfYQnvw")
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+This is free and automatically pulls the data from your accounts!
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+### 2. [EveryDollar](https://www.ramseysolutions.com/ramseyplus/everydollar)
 
-## Paragraph
+[V8CRqzLFOeOqCb5-mIh1zhpRupqu-PMFsYIJGcfH8LOm9rvuxcQwGR-80Nki38HMXYU](https://play-lh.googleusercontent.com/V8CRqzLFOeOqCb5-mIh1zhpRupqu-PMFsYIJGcfH8LOm9rvuxcQwGR-80Nki38HMXYU "V8CRqzLFOeOqCb5-mIh1zhpRupqu-PMFsYIJGcfH8LOm9rvuxcQwGR-80Nki38HMXYU")
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+This is from Dave Ramsey's team so you know you can trust it's built with your financial success in mind. There are two options, free or premium. The free version requires manually entering transactions which doesn't take long because the app makes it easy. The premium version is similar to Mint where your transactions are pulled automatically.
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+### 3. [Halfdollar](https://halfdollar.org/)
 
-## Blockquotes
+[72391fcd](https://dl.airtable.com/.exploreCoverImages/70858322f2125b99b4d4531ee6d4bf61/72391fcd "72391fcd")
 
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-#### Blockquote without attribution
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
-
-#### Blockquote with attribution
-
-> Simplicity is the ultimate sophistication.
-> <cite>Leonardo da Vinci[^1]</cite>
-
-[^1]: The above quote is often attributed to Leonardo da Vinci but there is no concrete evidence to support this.
-
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
-
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
-
-#### Inline Markdown within tables
-
-<div style="overflow-x: auto">
-
-| Inline&nbsp;&nbsp;&nbsp;     | Markdown&nbsp;&nbsp;&nbsp;  | In&nbsp;&nbsp;&nbsp;                | Table      |
-| ---------- | --------- | ----------------- | ---------- |
-| *italics*  | **bold**  | ~~strikethrough~~&nbsp;&nbsp;&nbsp; | `code`     |
-
-</div>
-
-## Code Blocks
-
-#### Code block with backticks
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
-#### Code block indented with four spaces
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-      <meta charset="UTF-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-#### Code block with Hugo's internal highlight shortcode
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
-
-#### Wide code block
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-</body>
-</html>
-```
-
-## List Types
-
-#### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-#### Unordered List
-
-* List item
-* Another item
-* And another item
-
-#### Nested list
-
-* Item
-1. First Sub-item
-2. Second Sub-item
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+If you enjoy using Airtable or [spreadsheets](https://docs.google.com/spreadsheets/d/17wqCL8NLsgysQybjEajpqzm1nXz6jCqm2PlxCJWsvjY/copy), this option is just for you! Also, it is completely free!
