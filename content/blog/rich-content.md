@@ -1,6 +1,6 @@
 ---
 title: How The Economy Works
-date: 2022-06-01T04:00:00+00:00
+date: 2022-07-01T04:00:00+00:00
 slug: economy-text
 description: A brief explanation on how the economy works
 keywords:
