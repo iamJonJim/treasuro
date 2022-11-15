@@ -1,6 +1,6 @@
 ---
 title: The Ultimate Guide to Personal Finance
-date: 2022-07-01T04:00:00+00:00
+date: 2022-08-01T04:00:00+00:00
 slug: finance-guide
 description: The ultimate guide to personal finance
 keywords:
