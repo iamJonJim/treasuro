@@ -13,4 +13,4 @@ toc = false
 
 Here is a [free course](https://www.khanacademy.org/college-careers-more/personal-finance) by Khan Academy where you can learn the different pieces of personal finance. No registration required! Here is one lesson
 
-{{ youtube 2rCF-tT3x-Q }}
+{{< youtube 2rCF-tT3x-Q >}}
