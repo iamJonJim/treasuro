@@ -1,5 +1,6 @@
 ---
-heading: "Treasuro"
-subheading: "A collection of the best resources to make personal finance simple"
-handle: ""
+heading: Treasuro
+subheading: Your go-to collection of resources to make personal finance simple
+handle: ''
+
 ---
