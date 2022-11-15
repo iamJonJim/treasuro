@@ -22,13 +22,13 @@ copyright = "© {year}"
   dateFormat = "Jan 2 2006"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
-  twitter = "https://twitter.com/<your handle>"
+  # twitter = "https://twitter.com/mytreasuro"
   # github = "https://github.com/<your handle>"
   email = "mailto:hello@treasuro.com"
   # mastodon = "https://mastodon.social/@nickname"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
-  # instagram = "https://instagram.com/<your handle>"
+  # instagram = "https://instagram.com/mytreasuro"
   # linkedin = "<link to your profile>"
   # youtube = "https://www.youtube.com/channel/<your channel>"
   
@@ -38,8 +38,8 @@ copyright = "© {year}"
   iconOrder = ["Email"]
 
   # Metadata for Twitter cards, defaults to params.twitter
-  # twitterSite = "@<your handle>"
-  # twitterAuthor = "@<your handle>"
+  # twitterSite = "@mytreasuro"
+  # twitterAuthor = "@mytreasuro"
 
   # Set to true to display page title in table of contents in blog posts.
   showPageTitleInTOC = false

@@ -1,5 +1,5 @@
 ---
-heading: "Hi, I'm Codex"
-subheading: "A minimal blog theme for hugo."
-handle: "hugo-theme-codex"
+heading: "Treasuro"
+subheading: "A collection of the best resources to make personal finance simple"
+handle: ""
 ---
