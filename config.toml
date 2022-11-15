@@ -1,12 +1,12 @@
-
+# REMOVE THIS
 
 # DO NOT REMOVE THIS
 theme = "hugo-theme-codex" 
 
 # Override these settings with your own
-title = "codex"
+title = "Treasuro"
 languageCode = "en-us"
-baseURL = "https://example.org/"
+baseURL = "https://treasuro.com/"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
@@ -23,8 +23,8 @@ copyright = "© {year}"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   twitter = "https://twitter.com/<your handle>"
-  github = "https://github.com/<your handle>"
-  # email = "mailto:<your email>"
+  # github = "https://github.com/<your handle>"
+  email = "mailto:hello@treasuro.com"
   # mastodon = "https://mastodon.social/@nickname"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
@@ -35,7 +35,7 @@ copyright = "© {year}"
   # Titles for your icons (shown as tooltips), and also their display order.
   # Currently, these icons are supported: 
   #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconOrder = ["Twitter", "GitHub"]
+  iconOrder = ["Email"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   # twitterSite = "@<your handle>"
@@ -68,6 +68,3 @@ copyright = "© {year}"
   name = "blog"
   title = "Blog"
   url = "/blog"
-
-
-
