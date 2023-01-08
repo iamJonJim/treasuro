@@ -2,9 +2,15 @@
 <html lang="{{ .Site.LanguageCode }}">
 
 <head>
-  {{- if not .Site.IsServer -}}
-      {{ template "_internal/google_analytics_async.html" . }}
-  {{- end -}}
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-LY65078G3K"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-LY65078G3K');
+  </script>
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 
   <meta charset="UTF-8">
