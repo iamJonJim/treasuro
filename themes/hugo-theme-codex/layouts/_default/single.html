@@ -19,6 +19,7 @@
               {{ end }}
           </article>
           {{ partial "tags.html" .}} {{ partial "post-pagination.html" .}}
+          {{ partial "subscribe.html" . }}
           {{ template "_internal/disqus.html" . }}
           <footer class="post__footer">
             {{ partial "social-icons.html" .}}
