@@ -21,9 +21,9 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        name: "post",
-        label: "Posts",
-        path: "content/posts",
+        name: "blog",
+        label: "Blog",
+        path: "content/blog",
         fields: [
           {
             type: "string",
@@ -38,8 +38,36 @@ export default defineConfig({
             label: "Body",
             isBody: true,
           },
+          {
+            type: "datetime",
+            name: "date",
+            label: "Date",
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "Description",
+          },
+          {
+            type: "boolean",
+            name: "math",
+            label: "Math",
+          },
+          {
+            type: "string",
+            name: "slug",
+            label: "Slug",
+          },
         ],
       },
     ],
+  },
+  search: {
+    tina: {
+      indexerToken: 'f6088e8f62417624aa690c3c2ea96abf584db056',
+      stopwordLanguages: ['eng']
+    },
+    indexBatchsize: 100,
+    maxSearchIndexFieldLength: 100
   },
 });
